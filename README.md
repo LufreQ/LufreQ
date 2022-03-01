@@ -1,10 +1,7 @@
 <h2 style="text-align: center;">Seja Bem-Vindo(a)! 😄</h2>
 <br>
 
-<h2 style="text-align: center;">Sobre Mim</h2>
 
-
-<p style="text-align: center;">Olá, eu me chamo Luiz, tenho 19 anos, sou estudante do curso de desenvolvimento Full-Stack Da RecodePro, gosto de Programação e de todo tipo de tecnologia Open-Source</p>
 
 <hr>
 <h3 style="text-align: center;">Entre Em Contato Comigo Pelo Meu Linkedin</h3>
