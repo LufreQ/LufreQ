@@ -27,14 +27,4 @@
 <br>
 <hr>
 
-### Ferramentas e OS:
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Gentoo" height="30" width="40" src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg">
-<img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg">
-<img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
-</div>
-
 
