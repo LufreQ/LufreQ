@@ -32,7 +32,7 @@ Eu gosto de usar diferentes desktops, dificilmente fico em um SO espefícico, po
 
 Gosto de desenvolver muitas coisas diferentes, como **ferramentas de linha de comando em shell script** e  **aplicações front/back end** normalmente usando as linguagens e ferramentas que destaquei acima.
 
-## 🌎 Contact
+## 🌎 Contato
 
 Sinta se livre para me contatar
 
