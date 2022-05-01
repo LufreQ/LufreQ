@@ -1,10 +1,14 @@
-## Seja Bem-Vindo(a)!
-
 <div align="center">
+  <h3>Seja Bem-Vindo(a)</h3>
+ </div>
+
+
   <a href="https://github.com/Luizfre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfre&layout=compact&langs_count=7&theme=dracula"/>
 
+  <div align="center">
+  
 <div style="display: inline_block"><br>
   
   <h3> ⌨️ Minhas principais Linguagens, Frameworks, etc... são: </h3>
