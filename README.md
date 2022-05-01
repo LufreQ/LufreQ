@@ -1,7 +1,4 @@
-<div align="center">
-<h2> Seja Bem-Vindo(a)! </h2>
-</div>
-</div>
+## Seja Bem-Vindo(a)!
 
 <div align="center">
   <a href="https://github.com/Luizfre">
