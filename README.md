@@ -1,17 +1,16 @@
-<h2>Seja Bem-Vindo(a) 👋🏻 </h2>
+<div align="center">
+<h2> Seja Bem-Vindo(a)! </h2>
+</div>
 
-## 👨‍🎓 Sobre Mim
-
-Olá, eu sou Luiz, estudante do curso de desenvolvimento Full-Stack da RecodePRO 
-
-## 💻 Meus Dispositivos ##
-
-
-Eu gosto de usar diferentes desktops, dificilmente fico em um SO espefícico, porém normalmente uso **Gentoo Linux**, em dual boot com **Windows**.
-
-## ⌨️ Minhas principais Linguagens, Frameworks, etc... são:
-
+<div align="center">
+  <a href="https://github.com/luizfre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfre&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
+  
+  <h3> ⌨️ Minhas principais Linguagens, Frameworks, etc... são: </h3>
+
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,23 +22,20 @@ Eu gosto de usar diferentes desktops, dificilmente fico em um SO espefícico, po
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   
+
+  
 </div>
+  
 
-
-
-## 🚀 Projetos 
-
-
-Gosto de desenvolver muitas coisas diferentes, como **ferramentas de linha de comando em shell script** e  **aplicações front/back end** normalmente usando as linguagens e ferramentas que destaquei acima.
-
-## 🌎 Contato
-
-Sinta se livre para me contatar
-
-- Contate-Me (Email): lhfreitas52@gmail.com
-
-- (Linkedin):    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-freitas-28995322a/)
-
-<hr>
-
-![LuizFre GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizfre&show_icons=true&theme=vue)
+ 
+<div> 
+  
+  <h3> 🌎 Contato </h3>
+ 
+ <a href="https://discord.gg/luiz_#6430" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lhfreitas52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-freitas-28995322a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/luizfre/luizfre/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
