@@ -4,10 +4,10 @@
 
 Olá, eu sou Luiz, estudante do curso de desenvolvimento Full-Stack da RecodePRO 
 
-## 💻 Meus Dispositivos
+## 💻 Meus Dispositivos ##
 
 
-Eu gosto de usar diferentes desktops, dificilmente fico em um SO espefícico, porém normalmente uso **Fedora Linux**, em dual boot com **Windows**.
+Eu gosto de usar diferentes desktops, dificilmente fico em um SO espefícico, porém normalmente uso **Gentoo Linux**, em dual boot com **Windows**.
 
 ## ⌨️ Minhas principais Linguagens, Frameworks, etc... são:
 
