@@ -17,6 +17,7 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+   <img align="right" alt="OpenBSD" height="150" style="border-radius:50px;" src="https://c.tenor.com/eFgn_9-9DbYAAAAC/openbsd-puffy.gif">
   </div>
 
   <br>
@@ -30,3 +31,8 @@
   ![Snake animation](https://github.com/luizfre/luizfre/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  
+  
+  
+ 
